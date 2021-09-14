@@ -1,0 +1,10 @@
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Aula_2608\CaixaElet\bin\Debug\CaixaElet.exe.config
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Aula_2608\CaixaElet\bin\Debug\CaixaElet.exe
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Aula_2608\CaixaElet\bin\Debug\CaixaElet.pdb
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Aula_2608\CaixaElet\obj\Debug\CaixaElet.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Aula_2608\CaixaElet\obj\Debug\CaixaElet.frmCaixa.resources
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Aula_2608\CaixaElet\obj\Debug\CaixaElet.Properties.Resources.resources
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Aula_2608\CaixaElet\obj\Debug\CaixaElet.csproj.GenerateResource.cache
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Aula_2608\CaixaElet\obj\Debug\CaixaElet.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Aula_2608\CaixaElet\obj\Debug\CaixaElet.exe
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Aula_2608\CaixaElet\obj\Debug\CaixaElet.pdb
